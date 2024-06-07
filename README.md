@@ -1,4 +1,4 @@
-# Dextensify
+# Dexterity
 Dexterity is an exploit which lets you disable most admin-installed Chrome extensions from any webpage. It can be used from regular websites, HTML files, and data URLs.
 
 ## Supported Extensions:
